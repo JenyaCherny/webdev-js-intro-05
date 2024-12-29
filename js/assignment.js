@@ -32,7 +32,7 @@ const submissionBtn = document.getElementById("submission-btn");
  todo.push(shiftValue); todo.push(popValue);             #8
  console.log(todo);              #9
 */
-
+// Question- if I have to write code answers to the functions below, there is answer 3, 7, 8, 9 would be missing. Not sure why we need functions for this exercise.
 function updateAnswerOne() {
     
 }
